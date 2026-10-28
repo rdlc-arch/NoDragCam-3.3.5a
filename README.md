@@ -51,11 +51,6 @@ Your original speeds are saved and restored when you log out or disable the addo
 - If your camera ever feels stuck or slow after removing the addon, type `/console cameraYawMoveSpeed 180` and `/console cameraPitchMoveSpeed 90`.
 - Tested on Warmane (3.3.5a) on Windows (Lenovo Legion Go) and Android (GameHub).
 
-## Credits
-
-Created by Radu.
-Written with help from Claude (Anthropic's AI assistant). It doesn't include code from other addons; it only uses the game's standard interface functions.
-
 ## License
 
 [MIT](LICENSE). Free to use, modify and share.
